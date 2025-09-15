@@ -8,8 +8,8 @@ gochat-backend
 6. If database is not already created copy and pase this command bellow:
 
 ```
-CREATE DATABASE myapp;
-USE myapp;
+CREATE DATABASE gochat;
+USE gochat;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
